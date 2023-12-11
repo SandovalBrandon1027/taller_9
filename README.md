@@ -1,14 +1,14 @@
 <h1>Taller 9</h1>
 
 <h3> ROUTES </h3> 
-![image](https://github.com/SandovalBrandon1027/taller_9/assets/117743120/38b99bb0-c727-4931-b70b-5195a82b1ca8) <br>
-![image](https://github.com/SandovalBrandon1027/taller_9/assets/117743120/debf9bb9-5c3b-4f13-bfc0-945311c8cf2a)
+![A1](https://github.com/SandovalBrandon1027/taller_9/assets/117743120/170afbd1-c5b1-4077-94f5-eb76f4ca55c0) <br>
+![A2](https://github.com/SandovalBrandon1027/taller_9/assets/117743120/4bb5cf5d-2e27-4ed2-ad8c-97e046586f4f)
 <h3> REQUEST Y RESPONSE </h3>
-![image](https://github.com/SandovalBrandon1027/taller_9/assets/117743120/026ba279-d489-459e-85e7-b1a9d58aeea2) <br>
-![image](https://github.com/SandovalBrandon1027/taller_9/assets/117743120/2e0d9cb2-714f-4408-b892-a12328097187)
+![A3](https://github.com/SandovalBrandon1027/taller_9/assets/117743120/09451b5c-0fd3-4ec3-b6fb-29466b1cc4a8) <br>
+![A4](https://github.com/SandovalBrandon1027/taller_9/assets/117743120/80db6736-8271-4064-8651-3097085f5c64)
 <h3> MIDDLEWARES </h3>
-![image](https://github.com/SandovalBrandon1027/taller_9/assets/117743120/810fcd9d-35e7-4d60-8562-401c878c0a34) <br>
-![image](https://github.com/SandovalBrandon1027/taller_9/assets/117743120/5034db14-0372-4388-91dd-34784cec6b33)
+![A5](https://github.com/SandovalBrandon1027/taller_9/assets/117743120/94132919-3ead-494c-ab0f-61351b746d1f) <br>
+![A6](https://github.com/SandovalBrandon1027/taller_9/assets/117743120/133841ca-0ba6-4497-a143-c675b81cd8b2)
 
 <h3>Ruta tipo GET  para presentar la información del grupo de trabajo.</h3>
 
